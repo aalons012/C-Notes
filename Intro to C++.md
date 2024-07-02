@@ -34,7 +34,7 @@ The "cout" statements output various values.
 The "return 0" statement ends the program
   - the 0 tells the operating system that the program ended without error
 
-======================
+
 Basic input
 ======================
 Programs commonly get input values, perform some processing on that input, and put output values to a screen or elsewhere. Input is commonly gotten from a keyboard, a file, fields on a web form or app, etc.
